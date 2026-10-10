@@ -1,1 +1,7 @@
 .env
+.agent/
+.cursor/
+.gemini/
+.impeccable/
+venv/
+__pycache__/
